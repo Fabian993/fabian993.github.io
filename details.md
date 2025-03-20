@@ -4,4 +4,4 @@
 - list
 - is
 - unordered
-[details](/details.html)
+[main](/index.html)
