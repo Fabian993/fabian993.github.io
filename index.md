@@ -6,3 +6,4 @@
 3) Build the Website
 
 [details](/details.html)
+[details, lammer](https://lammerl.github.io/hello-world/details.html)
