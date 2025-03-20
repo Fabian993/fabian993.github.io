@@ -4,3 +4,4 @@
 - list
 - is
 - unordered
+[details](details.html)
